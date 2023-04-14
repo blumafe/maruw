@@ -3,7 +3,7 @@ name = "maruw"
 version = "0.1.0"
 edition = "2021"
 description = "WIP crate for the web"
-repository = "https://github.com/blumafe/maruw.git"
+repository = "https://github.com/blumafe/maruw"
 license = "MIT"
 readme = "README.md"
 
